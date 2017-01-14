@@ -1,0 +1,50 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+.nav-bg {
+    background-color: #fff;
+}
+.about-bg {
+    background-image: url('../images/bg/01.jpg');
+}
+.about-bg-01{
+    background-image: url('../images/about/01.jpg');
+}
+.about-bg-02{
+    background-image: url('../images/about/02.jpg');
+}
+.about-bg-03{
+    background-image: url('../images/about/03.jpg');
+}
+.about-bg-04{
+    background-image: url('../images/about/04.jpg');
+}
+.journal-bg {
+    background-image: url('../images/contact-bg.jpg');
+}
+.contact-bg {
+    background-image: url('../images/contact-bg.jpg');
+}
+.project-01-carousel-item-01{
+	background-image: url('../images/project/project01/01.jpg');
+}
+.project-01-carousel-item-02{
+	background-image: url('../images/project/project01/02.jpg');
+}
+.project-01-carousel-item-03{
+	background-image: url('../images/project/project01/03.jpg');
+}
+.parallax-showcase-01{
+	background-image: url('../images/project/project01/02.jpg');
+}
+.parallax-showcase-02{
+	background-image: url('../images/project/project01/03.jpg');
+}
+.parallax-showcase-03{
+	background-image: url('../images/project/project01/01.jpg');
+}
+.call-to-action-bg{
+    background-image: url('../images/bg/02.jpg');
+}
+.stats-bg{
+    background-image: url('../images/bg/05.jpg');
+}
